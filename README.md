@@ -1,0 +1,1 @@
+mvn gatling:test -DPLATFORM_API_URL=https://app-de-na1.dev.niceincontact.com -Dgatling.simulationClass=simulations.UpdateCases -DEMAIL=manager0001.loadtestgbu.do0098.11@niceincontact.com -DPASSWORD=j!sFcWDpW92NgA9p8 -DNEW=new -DOPEN=open -DQUEUE=7e47cba0-1c2b-428f-93d4-a2d459bb7870 -DSTATUS=resolved
